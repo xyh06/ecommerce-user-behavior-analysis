@@ -40,14 +40,14 @@ The model nearly doubles churn detection precision in the high-risk group.
 
 ## 📂 Project Structure
 
-
+```
 ecommerce-user-churn/
 │
 ├── data/
 ├── notebooks/
 ├── README.md
 └── requirements.txt
-
+```
 
 ---
 
